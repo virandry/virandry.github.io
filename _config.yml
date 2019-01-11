@@ -22,8 +22,8 @@ opengraph:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about
+#  - title: About
+#    url: /about
   - title: Github
     url: https://github.com/virandry
     external: true
